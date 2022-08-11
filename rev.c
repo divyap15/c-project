@@ -2,7 +2,6 @@
 reverse()
 {
   int n,reverse = 0,remainder;
-
   printf("Enter an integer: ");
   scanf("%d", &n);
 
